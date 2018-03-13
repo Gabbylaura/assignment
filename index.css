@@ -1,0 +1,20 @@
+body{
+	background-image: url(images/scenery.jpg);
+	font-family: "Times New Roman", Times, Serif;
+	text-align: center;
+}
+nav{
+	font-size: 20px;
+	font-family: 'Roboto', sans-serif;
+}
+.div1{
+	padding-top: 150px;
+	color: white;
+	font-size: 30px;
+	text-shadow: 4px 5px 8px #101010;
+	letter-spacing: 5px;
+}
+.span_1{
+	color: red;
+	font-weight: bold;
+}
